@@ -1,0 +1,31 @@
+.hide{
+    display:none;
+}
+.tile-inner img{
+    width: 100%;
+	height: 100%
+}
+/*
+.tile-inner{
+    text-indent: -9999px;
+}
+.tile.tile-2 .tile-inner{
+    ---background:red;
+    background-image: url("http://dovisarel.github.io/2048-for-tor/img/2.jpg");
+}
+.tile.tile-4 .tile-inner{
+    background:green;
+}
+.tile.tile-8 .tile-inner{
+    background:#194578;
+}
+.tile.tile-16 .tile-inner{
+    background:#229999;
+}
+.tile.tile-32 .tile-inner{
+    background:#992277;
+}
+.tile.tile-64 .tile-inner{
+    background:#229922;
+}
+*/
